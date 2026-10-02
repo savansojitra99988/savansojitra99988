@@ -15,9 +15,7 @@
 ⚙️ Exploring **AI/ML algorithms**, **data visualization**, and **front-end development** with **HTML, CSS, and JavaScript**.  
 
 ---
-
-### 🧩 Tech Stack  
-
+ 
 ### 🧩 Tech Stack  
 
 <p align="center">
