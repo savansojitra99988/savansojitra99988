@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2200&pause=700&color=00E5FF&center=true&vCenter=true&width=900&lines=Computer+Science+Student+%F0%9F%92%BB;Data+Science+Explorer+%F0%9F%93%8A;Machine+Learning+Learner+%F0%9F%A4%96;Python+%7C+C%2B%2B+Developer+%F0%9F%90%8D;Learning+%E2%80%A2+Building+%E2%80%A2+Improving+%F0%9F%9A%80"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2200&pause=700&color=00E5FF&center=true&vCenter=true&width=900&lines=Computer+Science+Student+%F0%9F%92%BB;Data+Science+Explorer+%F0%9F%93%8A;SQL+%26+PostgreSQL+Learner+%F0%9F%97%84%EF%B8%8F;Machine+Learning+Learner+%F0%9F%A4%96;Python+%7C+C%2B%2B+Developer+%F0%9F%90%8D;Learning+%E2%80%A2+Building+%E2%80%A2+Improving+%F0%9F%9A%80"/>
 
 <br><br>
 
@@ -90,6 +90,13 @@ I learn by **building, experimenting, debugging and understanding** how things a
 
 <br><br>
 
+## 🗄️ DATABASE
+
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<br><br>
+
 ## 📊 DATA SCIENCE
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -135,7 +142,7 @@ I learn by **building, experimenting, debugging and understanding** how things a
 <table>
 <tr>
 
-<td align="center" width="22%">
+<td align="center" width="20%">
 
 ### 🐍
 
@@ -159,7 +166,31 @@ Programming
 
 </td>
 
-<td align="center" width="22%">
+<td align="center" width="20%">
+
+### 🗄️
+
+# SQL
+
+`DATA`
+
+<br>
+
+Queries
+JOINs
+Analytics
+
+</td>
+
+<td align="center" width="5%">
+
+# ⚡
+
+### →
+
+</td>
+
+<td align="center" width="20%">
 
 ### 📊
 
@@ -183,7 +214,7 @@ Visualization
 
 </td>
 
-<td align="center" width="22%">
+<td align="center" width="20%">
 
 ### 📈
 
@@ -207,7 +238,7 @@ Analysis
 
 </td>
 
-<td align="center" width="22%">
+<td align="center" width="20%">
 
 ### 🤖
 
@@ -228,7 +259,7 @@ Predictions
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1600&pause=500&color=00E5FF&center=true&vCenter=true&width=900&lines=Python+%E2%86%92+Data+%E2%86%92+Statistics+%E2%86%92+Machine+Learning;Machine+Learning+%E2%86%92+Deep+Learning+%E2%86%92+AI+%F0%9F%A7%A0;The+road+keeps+getting+smarter+%F0%9F%9A%80"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1600&pause=500&color=00E5FF&center=true&vCenter=true&width=900&lines=Python+%E2%86%92+SQL+%E2%86%92+Data+%E2%86%92+Statistics+%E2%86%92+Machine+Learning;Machine+Learning+%E2%86%92+Deep+Learning+%E2%86%92+AI+%F0%9F%A7%A0;The+road+keeps+getting+smarter+%F0%9F%9A%80"/>
 
 </div>
 
@@ -242,25 +273,31 @@ Predictions
 
 <br><br>
 
-<img src="https://img.shields.io/badge/01-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/01-Data%20Cleaning-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 &nbsp;➜&nbsp;
-<img src="https://img.shields.io/badge/02-Regression-4C00FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/02-Statistics-8B5CF6?style=for-the-badge"/>
 &nbsp;➜&nbsp;
-<img src="https://img.shields.io/badge/03-Classification-00A8E8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/03-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/04-Clustering-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/04-Regression-4C00FF?style=for-the-badge"/>
 &nbsp;➜&nbsp;
-<img src="https://img.shields.io/badge/05-Model%20Evaluation-00B894?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/05-Classification-00A8E8?style=for-the-badge"/>
 &nbsp;➜&nbsp;
-<img src="https://img.shields.io/badge/06-Feature%20Engineering-E67E22?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/06-Clustering-8B5CF6?style=for-the-badge"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/07-Deep%20Learning-E74C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/07-Model%20Evaluation-00B894?style=for-the-badge"/>
 &nbsp;➜&nbsp;
-<img src="https://img.shields.io/badge/08-AI-00E5FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/08-Feature%20Engineering-E67E22?style=for-the-badge"/>
+&nbsp;➜&nbsp;
+<img src="https://img.shields.io/badge/09-Deep%20Learning-E74C3C?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/10-AI-00E5FF?style=for-the-badge"/>
 
 </div>
 
